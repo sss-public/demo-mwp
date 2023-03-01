@@ -2,9 +2,6 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/javascript-node
 {
 	"name": "Node.js",
-	"containerEnv": {
-		"NPM_TOKEN": "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"
-	},
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	// "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18-bullseye",
 	"image": "mcr.microsoft.com/devcontainers/typescript-node:16",
